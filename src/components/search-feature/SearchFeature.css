@@ -1,0 +1,11 @@
+.card-title {
+  text-align: center;
+}
+
+.card-header {
+  background-color: lightsteelblue;
+}
+
+.list-group-item {
+  background-color: lightgray;
+}
